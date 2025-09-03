@@ -89,7 +89,7 @@ Granular dashboard for deep dives into borrower and loan-level data:
 ---
 
 ## 👤 Author  
-Developed by [Your Name] — Master’s in Data Science @ WPI.  
+Developed by Amit Prajapati — Master’s in Data Science @ WPI.  
 📌 Focus: Data Analytics | BI Dashboards | Lending Insights  
 
 ---
